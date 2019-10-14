@@ -1,5 +1,5 @@
 # Swift-ile-Baslangic-Playground-Temelleri
 
-## Sergen Gönenç
+## Emin Kotan
 
 Playground Temelleri && Adlandırma ve Tanımlayıcılar
